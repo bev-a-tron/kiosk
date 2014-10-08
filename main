@@ -1416,7 +1416,7 @@
         auto: true,
         autoControls: true,
         pager: false,
-        pause: 6000,
+        pause: 12000,
         onSlideAfter : function(){
 
         $('#current').text(parseInt(slider.getCurrentSlide())+1);
